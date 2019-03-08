@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               'ITinterests me'
 tagline:             'A tech blog by Till Domke'
-description:         'Inpirations and insirghts about IT and  tech in general by <a href="https://twitter.com/tilldomke" target="_blank">@tilldomke</a>.'
+description:         'Inpirations and insights about IT and  tech in general by <a href="https://twitter.com/tilldomke" target="_blank">@tilldomke</a>.'
 url:                 http://tilldomke.github.io
 baseurl:             ''
 paginate:            5
