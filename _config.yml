@@ -7,15 +7,15 @@ permalink:           pretty
 title:               'ITinterests me'
 tagline:             'A tech blog by Till Domke'
 description:         'Inpirations and insirghts about IT and  tech in general by <a href="https://twitter.com/tilldomke" target="_blank">@tilldomke</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://tilldomke.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Till L. Domke	
+  url:               https://twitter.com/tilldomke
+  email:             tilldomke@gmail.com
 
 # Custom vars
 version:             1.0.0
