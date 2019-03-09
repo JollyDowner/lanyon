@@ -10,6 +10,7 @@ description:         'Inpirations and insights about IT and  tech in general by 
 url:                 http://tilldomke.github.io
 baseurl:             ''
 paginate:            5
+githubsite:			'https://github.com/tilldomke'
 
 # About/contact
 author:
