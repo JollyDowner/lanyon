@@ -6,10 +6,10 @@ published: true
 
 I am Till, a International Computing and Media Student from a small town near Berlin. I am interested in anything Computer Science- and IT- related and started this blog to share some thoughts/discoveries/tutorials about these topics!
 
-###Current Focus Technologies
--Ruby (on Rails)
--Javascript/Node
--Python
+### Current Focus Technologies
+- Ruby (on Rails)
+- Javascript/Node
+- Python
 
 
 
